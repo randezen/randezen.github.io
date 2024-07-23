@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://randezen.github.io/sitemap
+Sitemap: https://randezen.github.io/app/sitemap
+Sitemap: https://randezen.github.io/assets/sitemap
+Sitemap: https://randezen.github.io/css/sitemap
+Sitemap: https://randezen.github.io/includes/sitemap
+Sitemap: https://randezen.github.io/item/sitemap
+Sitemap: https://randezen.github.io/src/sitemap
